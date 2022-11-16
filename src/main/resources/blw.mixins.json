@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "net.messyghost.borderlesswindow.mixin",
+  "compatibilityLevel": "JAVA_11",
+  "mixins": [
+  ],
+  "client": [
+    "MixinKeyboard",
+    "MixinMinecraft"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
