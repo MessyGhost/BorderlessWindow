@@ -2,7 +2,7 @@
 
 ## Description
 
-Bring borderless fullscreen mod to minecraft, toggled when F7 is pressed by default.
+Bring borderless fullscreen mode to minecraft, toggled when F7 is pressed by default.
 
 ## Configuration File
 
